@@ -5,3 +5,8 @@ prometheus_client==0.20.0
 protobuf==5.26.1
 typing_extensions==4.11.0
 websockets==12.0
+
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+yfinance==0.2.43
+pydantic==2.8.2
